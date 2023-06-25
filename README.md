@@ -1,3 +1,4 @@
+<img width="320" alt="3" src="https://github.com/Andifadly12/Bisiindo/assets/57305450/8e81bab0-3d36-4dd6-a798-204160a4f588">
 # bisiindo
 
 Bahasa isyarat merupakan kaedah komunikasi yang tidak menggunakan
@@ -17,8 +18,11 @@ pembelajaran bahasa isyrat.
 
 ## preview
 
-https://drive.google.com/open?id=1WXWqwYsKaBCoMfP5PnIjPFaJ_Lw2YmBw&usp=drive_copy
-https://drive.google.com/open?id=1e5vv-udcgsP6G1BbpNBn9OgJaYqLj3yq&usp=drive_copy
-https://drive.google.com/open?id=1uVhhbTf7tGiGuYmU3WHR6VIknrYAol7l&usp=drive_copy
-https://drive.google.com/open?id=1xLsWLl47VzJin0eh68n61ZO_UDkYQb5d&usp=drive_copy
+<img width="203" alt="1" src="https://github.com/Andifadly12/Bisiindo/assets/57305450/12f4bbe0-3d8a-420d-a4e0-a27b50e4164f">
+<img width="205" alt="2" src="https://github.com/Andifadly12/Bisiindo/assets/57305450/e39827c8-30cc-4786-8cb4-7eb72d27251a">
+<img width="320" alt="3" src="https://github.com/Andifadly12/Bisiindo/assets/57305450/8c9166f7-0f04-4ce4-9739-79a74e6e0ae4">
+<img width="200" alt="4" src="https://github.com/Andifadly12/Bisiindo/assets/57305450/b7cc284d-d322-4811-bfb6-9887aa27e977">
+
+
+
 

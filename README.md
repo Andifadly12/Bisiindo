@@ -1,16 +1,24 @@
 # bisiindo
 
-A new Flutter project.
+Bahasa isyarat merupakan kaedah komunikasi yang tidak menggunakan
+suara, tetapi pergerakan tangan, badan dan bibir untuk menyampaikan maklumat dan
+melahirkan pikiran seorang penutur. Panti Asuhan Al-Hidayah, berada di lokasi
+kabupaten Sinjai dimana panti asuhan tersebut merupakan tempat orang-orang yang
+memiliki keterbatasan fisik/mental. Aplikasi ini diharapkan dapat membantu
+masyarakat dan penyandang tunawicara untuk lebih mudah belajar bahasa isyarat
+sehingga dapat melakukan komunikasi dua arah dengan mudah. Metode DFS
+digunakan untuk mempermudah pengguna aplikasi mencari kata yang diinginkan.
+Berdasarkan hasil pengujian dengan menggunakan metode blackbox testing
+dengan menggunakan kuisioner kepada 40 orang koreseponden yang berasal dari
+anak tunawicara di Panti Asuhan Al-Hidayah dan mayarakat umum yang diolah
+manggunakan metode skala likert maka diperoleh presentase sebesar 87%, sehingga
+dapat disimpulkan bahwa aplikasi yang dibangun dapat membatu dalam
+pembelajaran bahasa isyrat.
 
-## Getting Started
+## preview
 
-This project is a starting point for a Flutter application.
+https://drive.google.com/open?id=1WXWqwYsKaBCoMfP5PnIjPFaJ_Lw2YmBw&usp=drive_copy
+https://drive.google.com/open?id=1e5vv-udcgsP6G1BbpNBn9OgJaYqLj3yq&usp=drive_copy
+https://drive.google.com/open?id=1uVhhbTf7tGiGuYmU3WHR6VIknrYAol7l&usp=drive_copy
+https://drive.google.com/open?id=1xLsWLl47VzJin0eh68n61ZO_UDkYQb5d&usp=drive_copy
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
